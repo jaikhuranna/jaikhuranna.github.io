@@ -1,0 +1,141 @@
+/* @font-face {
+    font-family: 'Grotesk';
+    src: url('C:\Users\Parth Bhargava\Desktop\programs\weebdev\test+css(1)\converted-fonts\'HankenGrotesk-VariableFont_wght.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.lexend {
+    font-family: 'Grotesk', sans-serif;
+} */
+
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+.element1,
+.element2 {
+    margin: 0; /* Reset margins */
+}
+
+.flex-container p {
+    /* Optional styles for the paragraph */
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */    
+    padding-left: 100px;
+    padding-right: 100px; 
+}
+
+h1{
+    font-size: 120px;
+    /* padding-top: 10px; */
+    font-weight: 800;
+    font-family: 'Poppins', sans-serif;;
+    text-align: center;
+    color: #fff;
+    text-shadow: 3px 3px 1px #673F69;
+    /* -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: #000000 */}
+
+a{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Kanit';
+    color: #fff;
+
+}
+
+
+body{
+    
+    background-color: purple;
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    color: #ffffff;
+    padding-top: 180px;
+
+}
+
+h3{
+    font-size: 40px;
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    color: #ffffff;
+
+}
+
+p{
+    font-family: 'Kanit', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 400;
+    color: #ffffff
+
+}
+
+.centre{
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%; */
+    text-align: center;
+    padding-top: 5%;
+}
+
+.ntl{
+    font-weight: 700;
+}
+
+.subhead{
+    font-size: 20px;
+}
+
+.common-padding{
+    padding-left: 50px;
+}
+
+.ntl_container{
+    display:inline
+}
+
+.cc{
+    text-align: left;
+    padding-left: 50px;
+}
+
+.space{
+    text-align: left;
+    padding-left: 50px;
+    display: inline; /* or inline */
+    margin-right: 10px;
+}
+
+.alt-space{ 
+    text-align: left;
+    padding-right: 50px;
+    display: inline; /* or inline */
+    margin-right: 10px;
+}
+
+.soml-img{
+    width: 50px;
+    height: auto;
+}
+
+.h1-contain{
+    text-align: center;
+    pa
+}
